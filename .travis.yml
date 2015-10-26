@@ -5,6 +5,6 @@ deploy:
   provider: heroku
   api_key:
     secure: BdMuc1xgrezp4cGhZl4rVtKN7W/yWbSgrtPoGibBk4WRLFq/1bVJzQDzlxE+LLJCBszPisElqPfQ3eSl1qo7c5BTyxVpXSgOziQvhitAw5W+2ILx0Z+mj7+mRFm8epCtM1TIvcjHXGC3DpSymkk/rdZWEGw3rUP4uHzfIs0EuDuUqheo7Rfy9mV7WbDy4coRXrTw6przzAUEepGGlDfGtTk5rhCp1BaU2q65Ts6R0zflGvtYWZvIyy2z1qZVsLvILAhDQTJhSE6NMmy8U0rQMOii2TmlBihCb3VaAa6PEU6XWT+R/0Dg7em4PyhQN2PvJ8yjcaMUjA9Sbl29RzLmweFN8u2LVaVDERm/fE9ThwcIwn/CSj0s0Q8GX4S5WZ9Fdy2MZHIVb+LiyYC04ot34hYCZbm/lCxp6UmjfbM/VxqFZgsEKtY8/3j1ilMcmYCdyT714B0flTFfNzExCGfDYHw4VC/ng25MN6oZds5h0BmHwvB6gGZfqByqvzIdHBcvqYod9P6l3de02/h/fPeyS2XwhzGJduliuRWZl+YK2FxDjHg5kLiyqGpnTf+z/P5m9PvaqwAdKp+BHc/uGRAdspRzHmjEvPDHF8wLzimlib9SkACqpEJS2I89SBcjfqeyUERwWB+i9vaXsX2k62MC6iOHI31Va8fXp29wetEHyWg=
-  app: DevOpsHeroku
+  app: devopsheroku
   on:
     repo: karthick-raja/DevOpsHeroku
