@@ -1,5 +1,5 @@
 {
-	"ImportPath": "DevOpsHeroku",
+	"ImportPath": "github.com/karthick-raja/DevOpsHeroku",
 	"GoVersion": "go1.5.1",
 	"Deps": []
 }
