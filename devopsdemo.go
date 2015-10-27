@@ -6,7 +6,7 @@ import (
 	"strings"
 	"log"
 	"html/template"
-	"github.com/karthick-raja/DevOpsHeroku/pkg/devopsutil"
+	"DevOpsHeroku/pkg/devopsutil"
 )
 
 func validateFileHandler(w http.ResponseWriter, r *http.Request) {
